@@ -1,2 +1,4 @@
-# skybug_task3
-calculator
+
+CALCULATOR
+LANDING PAGE
+PORTFOLIO
